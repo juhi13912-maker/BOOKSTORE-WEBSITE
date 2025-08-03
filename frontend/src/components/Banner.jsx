@@ -7,7 +7,7 @@ function Banner() {
         <div className="w-full order-2 md:order-1 md:w-1/2 mt-12 md:mt-32">
         <div className="space-y-12">
         <h1 className="text-4xl font-bold  "> Namaste <span className="text-pink-600">Readers ! </span>, Discover  your <span className="text-pink-600"> next read!!! </span></h1>
-        <p clasName="text-xl">
+        <p className="text-xl">
            Welcome to the World of Wisdom... Unleash the Power of Reading...Discover Endless Stories at Our Bookstore...Where Stories Come Alive...
             Find Yourself in Our Shelves...Infinite Stories, Infinite Possibilities.
         </p>
@@ -25,7 +25,7 @@ function Banner() {
   <input type="text" className="grow" placeholder="Email" />
 </label>
         </div>
-        <button className="btn mt-6 btn-secondary">Secondary</button>
+        <button className="btn mt-6 btn-secondary">Get Started</button>
         </div>
         <div className=" order-1 w-full md:w-1/2">
         <img src={ banner} className="w-42 h-42 mr-90" alt=""></img>
